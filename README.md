@@ -9,14 +9,14 @@
 - G検定取得
 - 生成AIパスポート取得
 ---
-
-## Python
+## ポートフォリオ
+### Python
 - [Udemy学習ログ](https://github.com/chie-works/python_study/blob/main/README.md)  
   講座名「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル」
 
 ---
 
-## HTML/CSS/JavaScript
+### HTML/CSS/JavaScript
 - [オリジナルサイト「架空の花屋：Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
 - [オリジナルサイト「架空の観光サイト：maple_villege」](https://chie-works.github.io/html_maple_villege/)
 
