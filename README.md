@@ -1,16 +1,43 @@
-## Hi there 👋
+# 千恵の GitHub ポートフォリオ
 
-<!--
-**chie-works/chie-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 プロフィール
+IT・教育分野の実務家。Python 標準ライブラリを活用し、教材改善・環境差分整理を通じて学習者の理解を深めることを得意としています。  
+- 専門分野: Python ファイル操作、圧縮展開、環境差分の整理  
+- 教育スタイル: 納得感重視、コメント付けによる理解促進、抽象概念の図解化  
+- 家庭や教育現場での IT 活用にも積極的に取り組んでいます  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 主なプロジェクト
+
+### 1. Python ファイル操作教材
+- **内容:** `os`, `pathlib`, `shutil`, `zipfile` などを用いたファイル操作例  
+- **特徴:** Mac/Windows/PowerShell の環境差分を整理し、学習者が混乱しないように工夫  
+- **リンク:** [ファイル操作教材](https://github.com/chie-works/your-repo-1)
+
+---
+
+### 2. 抽象概念の教材化
+- **内容:** ラムダ式、map関数、リスト内包表記、ジェネレータの比較表と解説  
+- **特徴:** 図解やコメントを多用し、直感的に理解できるよう改善  
+- **リンク:** [抽象概念教材](https://github.com/chie-works/your-repo-2)
+
+---
+
+### 3. 教材改善プロジェクト
+- **内容:** 生徒の理解度を高めるための教材コードリファクタリング  
+- **特徴:** コメント付け・色付け・見栄え改善を実施  
+- **リンク:** [教材改善プロジェクト](https://github.com/chie-works/your-repo-3)
+
+---
+
+## 🛠️ 技術スタック
+- Python 標準ライブラリ（os, pathlib, shutil, glob, tarfile, zipfile, tempfile, subprocess）
+- 教育用ツール: Jupyter Notebook, Markdown
+- 環境差分整理: Mac / Windows / PowerShell
+
+---
+
+## 🎯 ポートフォリオの目的
+- 教材改善の実例を通じて「納得感重視の教育スタイル」を示す  
+- IT教育現場での実践力と教材改善力を企業にアピールする  
