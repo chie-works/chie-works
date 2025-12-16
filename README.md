@@ -1,4 +1,4 @@
-# 千恵の GitHub ポートフォリオ
+# My Portfolio
 
 ## オリジナルサイト
 - [「架空の花屋：Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
