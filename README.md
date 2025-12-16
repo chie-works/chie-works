@@ -7,8 +7,9 @@
 - 東京都主催デジタルスキル受講：1か月
 - Udemy「Python講座」：学習中
 - 生成AIパスポート：2025年10月取得
-- G検定：2025年11月取得
+- JDLA（日本ディープラーニング協会）G検定 合格　2025年11月
 ---
+
 ## ポートフォリオ
 ### Python
 - [Udemy学習ログ](https://github.com/chie-works/python_study/blob/main/README.md)  
