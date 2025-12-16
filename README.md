@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Python
-- [Udemy学習ログ：「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル」](https://github.com/chie-works/python_study/blob/main/README.md)
+- [Udemy学習ログ：講座名「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル」](https://github.com/chie-works/python_study/blob/main/README.md)
 
 ## HTML/CSS/JavaScript
 - [オリジナルサイト「架空の花屋：Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
