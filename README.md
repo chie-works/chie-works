@@ -1,11 +1,12 @@
 # My Portfolio
 
-## オリジナルサイト
-- [「架空の花屋：Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
-- [「架空の観光サイト：maple_villege」](https://chie-works.github.io/html_maple_villege/)
-
-## Python学習
+## Python
 - [「Udemy」](https://github.com/chie-works/python_study/blob/main/README.md)
+
+## HTML/CSS/JavaScript
+- [オリジナルサイト「架空の花屋：Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
+- [オリジナルサイト「架空の観光サイト：maple_villege」](https://chie-works.github.io/html_maple_villege/)
+
 
 
 
