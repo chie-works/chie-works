@@ -1,5 +1,5 @@
 # 千恵の GitHub ポートフォリオ
-
+- [オリジナルサイト「Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)
 ## 👩‍💻 プロフィール
 IT・教育分野の実務家。Python 標準ライブラリを活用し、教材改善・環境差分整理を通じて学習者の理解を深めることを得意としています。  
 - 専門分野: Python ファイル操作、圧縮展開、環境差分の整理  
