@@ -28,10 +28,10 @@
 
 
 - [python-works-project](https://github.com/python-works-project)  
-  Python標準ライブラリ・環境差分・実践コード
+  Python学習における作成したコードやポイントをまとめたページです
 
 - [web-works-project](https://github.com/web-works-project)  
-  HTML/CSS/JavaScript教材・Web開発演習
+  職業訓練校で半年間Webサイト制作を学び作成した教材サイトおよびオリジナルサイトをまとめたページです
 
 - [ai-works-project](https://github.com/ai-works-project)  
   機械学習・生成AI教材・実践コード
