@@ -12,8 +12,8 @@
 
 ## ポートフォリオ
 ### Python
-- [Udemy学習ログ](https://github.com/chie-works/python_study/blob/main/README.md)  
-  講座名「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル」
+- [Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)  
+  Python学習における作成したコードやポイントをまとめたページです
 
 ---
 
