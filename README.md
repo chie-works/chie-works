@@ -15,11 +15,11 @@
 ---
 
 ### ` HTML/CSS/JavaScript `
-- [オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)  
-  学習のために作成した架空の花屋のオリジナルサイトです
+- [オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)：学習のために作成した架空の花屋のオリジナルサイトです
 ![Web Sunday Flower](./images/sunday_flower.png)
-- [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)  
-  学習のために作成した架空の観光サイトのオリジナルサイトです
+
+
+- [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)：学習のために作成した架空の観光サイトのオリジナルサイトです
 ![Web Maple Villege](./images/maple_villege.png)
 
   
