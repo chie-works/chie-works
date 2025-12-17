@@ -20,7 +20,7 @@
 ### HTML/CSS/JavaScript
 - [オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)  
   学習のために作成した架空の花屋のオリジナルサイトです
-- [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-village/)  
+- [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)  
   学習のために作成した架空の観光サイトのオリジナルサイトです
   
 
