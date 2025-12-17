@@ -18,9 +18,9 @@
 ---
 
 ### HTML/CSS/JavaScript
-- [オリジナルサイト：「Sunday Flower」](https://chie-works.github.io/html_sunday_flower/)  
+- [オリジナルサイト：「Sunday Flower」](https://chie-works.github.io/web-sunday-flower/)  
   学習のために作成した架空の花屋のオリジナルサイトです
-- [オリジナルサイト：「maple_villege」](https://chie-works.github.io/html_maple_villege/)  
+- [オリジナルサイト：「maple_villege」](https://chie-works.github.io/web-maple-village/)  
   学習のために作成した架空の観光サイトのオリジナルサイトです
   
 
