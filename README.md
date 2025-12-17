@@ -11,13 +11,13 @@
 ---
 
 ## ポートフォリオ
-### Python
+### ` Python `
 - [Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)  
   Python学習における作成したコードやポイントをまとめたページです
 
 ---
 
-### HTML/CSS/JavaScript
+### ` HTML/CSS/JavaScript `
 - [オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)  
   学習のために作成した架空の花屋のオリジナルサイトです
 - [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)  
