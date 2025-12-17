@@ -27,3 +27,13 @@
 ---
 
 
+- [python-works-project](https://github.com/python-works-project)  
+  Python標準ライブラリ・環境差分・実践コード
+
+- [web-works-project](https://github.com/web-works-project)  
+  HTML/CSS/JavaScript教材・Web開発演習
+
+- [ai-works-project](https://github.com/ai-works-project)  
+  機械学習・生成AI教材・実践コード
+
+
