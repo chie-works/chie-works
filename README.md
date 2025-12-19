@@ -16,6 +16,9 @@
 
 ### ` HTML/CSS/JavaScript `
 - [オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)：学習のために作成した架空の花屋のオリジナルサイトです
+
+<img src="./images/sunday_flower.png" width="150">
+
 ![Web Sunday Flower](./images/sunday_flower.png)
 
 
