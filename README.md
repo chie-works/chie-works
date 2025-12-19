@@ -22,11 +22,11 @@
 </a>
 
 - [オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)：学習のために作成した架空の観光サイトのオリジナルサイトです
-<img src="./images/maple_villege.png" width="300">
 
-![Web Maple Villege](./images/maple_villege.png)
-
-  
+<a href="https://web-works-project.github.io/web-maple-villege/">
+  <img src="./images/maple_villege.png" alt="maple villege" width="300">
+</a>
+ 
 
 ---
 
