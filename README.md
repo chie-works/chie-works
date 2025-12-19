@@ -21,7 +21,7 @@
 <a href="https://web-works-project.github.io/web-sunday-flower/">
   <img src="./images/sunday_flower.png" alt="Sunday Flower" width="300">
 </a>
-<hr>
+<br>
 
 **[オリジナルサイト：「maple_villege」](https://web-works-project.github.io/web-maple-villege/)**  
 学習のために作成した架空の観光サイトのオリジナルサイトです
@@ -29,7 +29,7 @@
 <a href="https://web-works-project.github.io/web-maple-villege/">
   <img src="./images/maple_villege.png" alt="maple villege" width="300">
 </a>
-
+<br>
  
 **[講座課題制作：「chalon」](https://web-works-project.github.io/web-chalon/)**  
 職業訓練校の講座内で作成した課題のサイトです。
@@ -37,6 +37,7 @@
 <a href="https://web-works-project.github.io/web-chalon/">
   <img src="./images/chalon.png" alt="chalon" width="300">
 </a>
+<br>
 
 ---
 
