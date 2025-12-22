@@ -8,9 +8,9 @@
 ---
 
 ## ポートフォリオ
-### ` Python `
-** - [Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
-  - Python学習における作成したコードやポイントをまとめたページです
+### - ` Python `
+**- [Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
+  Python学習における作成したコードやポイントをまとめたページです
 
 
 ### ` HTML/CSS/JavaScript `
