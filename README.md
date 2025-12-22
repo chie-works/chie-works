@@ -6,16 +6,13 @@
 - 生成AIパスポート：2025年10月取得
 - JDLA（日本ディープラーニング協会）G検定 合格　2025年11月
 ---
----
 
 ## ポートフォリオ
----
 ---
 ### ` Python `
 **[Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
 Python学習における作成したコードやポイントをまとめたページです
 
----
 
 ### ` HTML/CSS/JavaScript `
 **[オリジナルサイト：「Sunday Flower」](https://web-works-project.github.io/web-sunday-flower/)**：学習のために作成した架空の花屋のオリジナルサイトです
