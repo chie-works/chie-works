@@ -5,7 +5,7 @@
 ### ポートフォリオ
 #### 🌸 Sunday Flower
 <a href="https://web-works-project.github.io/web-sunday-flower/">
-  <img src="./images/sunday_flower.png" alt="Sunday Flower" width="300">
+  <img src="../images/sunday_flower.png" alt="Sunday Flower" width="300">
 </a>  
 学習のために作成した架空の花屋サイトです。
 
