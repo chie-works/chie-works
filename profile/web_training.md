@@ -2,6 +2,8 @@
 
 ### 職業訓練校「これからはじめるデザイン・マーケティング科」
 - 期間：2024年11月22日～2025年5月21日（6か月）
+---
+
 ### ポートフォリオ
 #### 🌸 Sunday Flower
 <a href="https://web-works-project.github.io/web-sunday-flower/">
