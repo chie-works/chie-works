@@ -25,7 +25,7 @@ Python学習における作成コードやポイントをまとめています�
 ### `HTML / CSS / JavaScript`
 | サイト名 | サイトイメージ | 説明 |
 |---|---|---|
-| [🌸 Sunday Flower](https://web-works-project.github.io/web-sunday-flower/) | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="./images/sunday_flower.png" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
-| [🍁 Maple Villege](https://web-works-project.github.io/web-maple-villege/) | <a href="https://web-works-project.github.io/web-maple-villege/"><img src="./images/maple_villege.png" alt="maple villege" width="150"></a> | 学習のために作成した架空の観光サイトです。 |
-| [🧁 Chalon](https://web-works-project.github.io/web-chalon/) | <a href="https://web-works-project.github.io/web-chalon/"><img src="./images/chalon.png" alt="chalon" width="150"></a> | 職業訓練校の講座内で作成した課題サイトです。 |
+| [Sunday Flower](https://web-works-project.github.io/web-sunday-flower/) | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="./images/sunday_flower.png" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
+| [Maple Villege](https://web-works-project.github.io/web-maple-villege/) | <a href="https://web-works-project.github.io/web-maple-villege/"><img src="./images/maple_villege.png" alt="maple villege" width="150"></a> | 学習のために作成した架空の観光サイトです。 |
+| [Chalon](https://web-works-project.github.io/web-chalon/) | <a href="https://web-works-project.github.io/web-chalon/"><img src="./images/chalon.png" alt="chalon" width="150"></a> | 職業訓練校の講座内で作成した課題サイトです。 |
 
