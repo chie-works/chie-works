@@ -2,12 +2,12 @@
 
 | 項目 | 内容 | リンク |
 |------|------|--------|
-| システム開発の実務経験 | 8年 | [詳細](./profile/system_dev.md) |
-| WEBサイト制作受講 | 6か月 | [詳細](./profile/web_training.md) |
-| 東京都主催デジタルスキル受講 | 1か月 | [詳細](./profile/digital_skill.md) |
-| Udemy「Python講座」 | 学習中 | [学習ログ](https://github.com/python-works-project/python-udemy-practice) |
-| 生成AIパスポート | 2025年10月取得 | [詳細](./profile/ai_passport.md) |
-| JDLA G検定 | 2025年11月合格 | [学習ログ](./profile/g_test.md) |
+| システム開発の実務経験 | 8年 | [➤](./profile/system_dev.md) |
+| WEBサイト制作受講 | 6か月 | [➤](./profile/web_training.md) |
+| 東京都主催デジタルスキル受講 | 1か月 | [➤](./profile/digital_skill.md) |
+| Udemy「Python講座」 | 学習中 | [➤](https://github.com/python-works-project/python-udemy-practice) |
+| 生成AIパスポート | 2025年10月取得 | [➤](./profile/ai_passport.md) |
+| JDLA G検定 | 2025年11月合格 | [➤](./profile/g_test.md) |
 ---
 
 ## ポートフォリオ
