@@ -1,1 +1,1 @@
-<img src="../images/ai_passport.png" alt="ai passport" width="400">
+<img src="../images/ai_passport.png" alt="ai passport" width="600">
