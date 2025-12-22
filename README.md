@@ -23,9 +23,6 @@ Python学習における作成コードやポイントをまとめています�
 ---
 
 ### `HTML / CSS / JavaScript`
-
-### ポートフォリオ一覧
-
 | サイト名 | サムネイル | 説明 |
 |---|---|---|
 | [🌸 Sunday Flower](https://web-works-project.github.io/web-sunday-flower/) | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="./images/sunday_flower.png" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
