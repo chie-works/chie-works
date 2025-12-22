@@ -11,6 +11,7 @@
 |---|---|---|
 | JDLA G検定 | 2025年11月合格 | [詳細](./profile/g_test.md) |
 | 生成AIパスポート | 2025年10月取得 | [詳細](./profile/ai_passport.md) |
+| VBAエキスパート Excel VBA Standard | 2019年7月取得 | [詳細](./profile/excel_vba.md) |
 ---
 
 ## ポートフォリオ
