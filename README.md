@@ -1,6 +1,5 @@
 ## プロフィール
 
-|------|------|--------|
 | システム開発の実務経験 | 8年 | [詳細](./profile/system_dev.md) |
 | WEBサイト制作受講 | 6か月 | [詳細](./profile/web_training.md) |
 | 東京都主催デジタルスキル受講 | 1か月 | [詳細](./profile/digital_skill.md) |
