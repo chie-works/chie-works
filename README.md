@@ -17,8 +17,9 @@
 
 | 資格名 | 取得日 | バッジ | 詳細 |
 |---|---|---|---|
-| JDLA G検定 | 2025年11月 | [▶ バッジを見る](https://www.openbadge-global.com/badge/g検定のURL) | [▶ 学習ログ](./profile/g_test.md) |
-| VBAエキスパート（Excel VBA Standard） | 2025年12月 | [▶ バッジを見る](https://www.openbadge-global.com/badge/vbaのURL) | [▶ 学習ログ](./profile/vba_expert.md) |
+| JDLA G検定 | 2025年11月 | [▶ バッジを見る](./images/g_test.png) | [詳細](./profile/g_test.md) |
+| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) |
+| VBAエキスパート | 2019年7月 | [▶ バッジを見る](./images/Excel_VBA_Standard.png) |  [詳細](./profile/excel_vba.md) |
 
 ---
 
