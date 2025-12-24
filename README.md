@@ -12,6 +12,14 @@
 | JDLA G検定 | 2025年11月合格 | [詳細](./profile/g_test.md) |
 | 生成AIパスポート | 2025年10月取得 | [詳細](./profile/ai_passport.md) |
 | VBAエキスパート Excel VBA Standard | 2019年7月取得 | [詳細](./profile/excel_vba.md) |
+
+### 保有資格・オープンバッジ
+
+| 資格名 | 取得日 | バッジ | 詳細 |
+|---|---|---|---|
+| JDLA G検定 | 2025年11月 | [▶ バッジを見る](https://www.openbadge-global.com/badge/g検定のURL) | [▶ 学習ログ](./profile/g_test.md) |
+| VBAエキスパート（Excel VBA Standard） | 2025年12月 | [▶ バッジを見る](https://www.openbadge-global.com/badge/vbaのURL) | [▶ 学習ログ](./profile/vba_expert.md) |
+
 ---
 
 ## ポートフォリオ
