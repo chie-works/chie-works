@@ -9,11 +9,11 @@
 
 ### 保有資格・オープンバッジ
 
-| 資格名 | 取得日 | バッジ | 詳細 |
+| 資格名 | 取得日 | 詳細 | バッジ |
 |---|---|---|---|
-| JDLA G検定 | 2025年11月 | [▶ バッジを見る](./images/g_test.png) | [詳細](./profile/g_test.md) |
-| 生成AIパスポート | 2025年10月 |  | [詳細](./profile/ai_passport.md) |
-| VBAエキスパート | 2019年7月 | [▶ バッジを見る](./images/Excel_VBA_Standard.png) |  [詳細](./profile/excel_vba.md) |
+| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [▶ バッジを見る](./images/g_test.png) |
+| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) |  |
+| VBAエキスパート | 2019年7月 | [詳細](./profile/excel_vba.md) | [▶ バッジを見る](./images/Excel_VBA_Standard.png) |
 
 ---
 
