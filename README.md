@@ -3,8 +3,8 @@
 | スキル・経歴 | 期間 | リンク |
 |---|---|---|
 | システム開発の実務経験 | 8年 | [詳細](./profile/system_dev.md) |
-| WEBサイト制作 | 6か月 | [詳細](./profile/web_training.md) |
-| デジタルスキル | 1か月 | [詳細](./profile/digital_skill.md) |
+| WEBサイト制作講座受講 | 6か月 | [詳細](./profile/web_training.md) |
+| デジタルスキル講座受講 | 1か月 | [詳細](./profile/digital_skill.md) |
 | Python学習 | 学習中 | [詳細](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md) |
 
 | 資格 | 期間 | リンク |
