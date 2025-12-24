@@ -7,18 +7,12 @@
 | 『デジタルスキル講座』受講 | 1か月 | [詳細](./profile/digital_skill.md) |
 | 『Python』受講中 | 学習中 | [詳細](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md) |
 
-| 資格 | 期間 | リンク |
-|---|---|---|
-| JDLA G検定 | 2025年11月合格 | [詳細](./profile/g_test.md) |
-| 生成AIパスポート | 2025年10月取得 | [詳細](./profile/ai_passport.md) |
-| VBAエキスパート Excel VBA Standard | 2019年7月取得 | [詳細](./profile/excel_vba.md) |
-
 ### 保有資格・オープンバッジ
 
 | 資格名 | 取得日 | バッジ | 詳細 |
 |---|---|---|---|
 | JDLA G検定 | 2025年11月 | [▶ バッジを見る](./images/g_test.png) | [詳細](./profile/g_test.md) |
-| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) |
+| 生成AIパスポート | 2025年10月 |  | [詳細](./profile/ai_passport.md) |
 | VBAエキスパート | 2019年7月 | [▶ バッジを見る](./images/Excel_VBA_Standard.png) |  [詳細](./profile/excel_vba.md) |
 
 ---
