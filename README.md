@@ -13,7 +13,7 @@
 |---|---|---|---|
 | JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [▶ バッジを見る](./images/g_test.png) |
 | 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) |  |
-| VBAエキスパート | 2019年7月 | [詳細](./profile/excel_vba.md) | [▶ バッジを見る](./images/VBA.png) |
+| VBAエキスパート | 2019年7月 | [詳細](./profile/excel_vba.md) | [▶ バッジを見る](./images/excel_vba.png) |
 
 ---
 
