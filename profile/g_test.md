@@ -1,6 +1,3 @@
-<img src="../images/g_test.png" alt="g test" width="400">
-
-
 ■合否結果
 =================  
 【　合　格　】  
