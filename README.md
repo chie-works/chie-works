@@ -13,7 +13,7 @@
   <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100">
   <img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100">
   <img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100">
-  <span><a>資格・バッジの説明</a></span>
+  <span><a href="#badge-info">資格・バッジの説明</a></span>
  </div>
 
 | 資格名 | 取得年月 | 詳細 |
