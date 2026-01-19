@@ -1,5 +1,8 @@
 <img src="../images/g_test.png" alt="G 検定" width="600">
 
+<img src="../images/g_test_badge.png" alt="G 検定 バッジ" width="600">
+
+
 ## ■分野別得点率（小数点以下切り捨て）
 
 | No. | 分野 | 得点率 |
