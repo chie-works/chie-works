@@ -1,5 +1,5 @@
 
-## １．スキル・経歴
+# １．スキル・経歴
 
 | スキル・経歴 | 期間 |  |
 |---|---|---|
@@ -10,16 +10,16 @@
 
 ---
 
-## ２．保有資格・オープンバッジ
+# ２．保有資格・オープンバッジ
 
-### 資格
+## 資格
 | 資格名 | 取得年月 | 詳細 |  | 
 |---|---|---|---|
 | JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [資格の説明](#g検定) |
 | 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | [資格の説明](#生成aiパスポート) |
 | VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格の説明](#VBA-standard) |
 
-### バッジ
+## バッジ
 <table>
   <tr>
     <th>JDLA Deep Learning <br>for GENERAL 2025 #6</th>
@@ -40,13 +40,13 @@
 
 ---
 
-## ３．ポートフォリオ
+# ３．ポートフォリオ
 
-### `Python`
+## `Python`
 **[学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
 Python学習における作成コードやポイントをまとめています。
 
-### `HTML / CSS / JavaScript`
+## `HTML / CSS / JavaScript`
 | サイト名 | サイトイメージ | 説明 |
 |---|---|---|
 | [Sunday Flower](https://web-works-project.github.io/web-sunday-flower/) | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="./images/sunday_flower.png" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
