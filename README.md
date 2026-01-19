@@ -28,7 +28,7 @@
 ## ３．ポートフォリオ
 
 ### `Python`
-**[Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
+**[学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
 Python学習における作成コードやポイントをまとめています。
 
 ### `HTML / CSS / JavaScript`
