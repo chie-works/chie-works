@@ -1,3 +1,5 @@
+<img src="../images/g_test.png" alt="G 検定" width="300">
+
 ## ■合否結果
 
 | 結果 |
@@ -17,8 +19,6 @@
 | 7 | AIに必要な数理・統計知識 | 100% |
 | 8 | AIに関する法律と契約・AI倫理・AIガバナンス | 91% |
 
-## ■オープンバッジ
-<img src="../images/g_test.png" alt="G 検定" width="300">
 
 
 
