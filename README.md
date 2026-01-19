@@ -19,7 +19,7 @@
 |---|---|---|---|
 | JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [資格・バッジの説明](#g検定) |
 | 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | [資格・バッジの説明](#生成aiパスポート) |
-| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格・バッジの説明](#VBA standard )|
+| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格・バッジの説明](#VBA standard)|
 
 ---
 
