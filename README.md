@@ -51,10 +51,10 @@ Python学習における作成コードやポイントをまとめています�
 | [Maple Villege](https://web-works-project.github.io/web-maple-villege/) | <a href="https://web-works-project.github.io/web-maple-villege/"><img src="./images/maple_villege.png" alt="maple villege" width="150"></a> | 学習のために作成した架空の観光サイトです。 |
 | [Chalon](https://web-works-project.github.io/web-chalon/) | <a href="https://web-works-project.github.io/web-chalon/"><img src="./images/chalon.png" alt="chalon" width="150"></a> | 職業訓練校の講座内で作成した課題サイトです。 |
 
+---
 
 <h2 id="badge-info">資格・バッジの説明</h2>
 
-  
 #### ` G検定 `
  [公式サイト](https://www.jdla.org/certificate/general/)   より  
 G検定とは、一般社団法人日本ディープラーニング協会（JDLA）が実施する、AI・ディープラーニングの活⽤リテラシー習得のための検定試験です。 AI・ディープラーニングに関わる全ての方が受験対象です。 AI・ディープラーニングについて体系的に学ぶことで、「AIで何ができて、何ができないのか」「どこにAIを活用すればよいか」「AIを活用するためには何が必要か」が理解でき、データを活用した新たな課題の発見やアイデアの創出が可能になる、デジタル施策の推進に自信が持てるようになるなど、あなたのビジネスやキャリアの可能性が飛躍的に広がります。
