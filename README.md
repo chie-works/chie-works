@@ -10,7 +10,7 @@
 ### 保有資格・オープンバッジ
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  [<img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100">](#g検定)
+  <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100">
   <img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100">
   <img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100">
  </div>
