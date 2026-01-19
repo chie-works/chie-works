@@ -1,9 +1,8 @@
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="../images/ai_passport.png" alt="ai passport" width="400">
   <img src="../images/ai_passport_score.png" alt="ai passport score" width="400">
- </div>
-
+</div>
 ## ■章別得点率
 
 | No. | 分野 | 得点率 |
