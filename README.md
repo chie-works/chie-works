@@ -13,7 +13,7 @@
   <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100">
   <img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100">
   <img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100">
-  <span><a>バッジの説明</a></span>
+  <span><a>資格・バッジの説明</a></span>
  </div>
 
 | 資格名 | 取得年月 | 詳細 |
@@ -37,3 +37,10 @@ Python学習における作成コードやポイントをまとめています�
 | [Maple Villege](https://web-works-project.github.io/web-maple-villege/) | <a href="https://web-works-project.github.io/web-maple-villege/"><img src="./images/maple_villege.png" alt="maple villege" width="150"></a> | 学習のために作成した架空の観光サイトです。 |
 | [Chalon](https://web-works-project.github.io/web-chalon/) | <a href="https://web-works-project.github.io/web-chalon/"><img src="./images/chalon.png" alt="chalon" width="150"></a> | 職業訓練校の講座内で作成した課題サイトです。 |
 
+
+<h2 id="badge-info">資格・バッジの説明</h2>
+
+## G検定
+## 生成AIパスポート
+## DX 推進パスポート
+## VBA standard
