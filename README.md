@@ -16,11 +16,11 @@
  </div>
   <span><a href="#badge-info">資格・バッジの説明</a></span>
 
-| 資格名 | 取得年月 | 詳細 |
-|---|---|---|
-| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) |
-| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) |
-| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  |
+| 資格名 | 取得年月 | 詳細 |  | 
+|---|---|---|---|
+| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | <a href="#badge-info">資格・バッジの説明</a> |
+| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | <a href="#badge-info">資格・バッジの説明</a> |
+| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | <a href="#badge-info">資格・バッジの説明</a> |
 
 ---
 
