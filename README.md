@@ -32,6 +32,10 @@
     <td align="center"><img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100"></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RGJpWmpGTmFOWi9vOTlscFlSeFkvZz09">資格証明</a></td>
+    <td align="center"><a href="#vbaエキスパート-excel-vba-standard">バッジの説明</a></td>
+    <td align="center"><a href="#dx-推進パスポート">バッジの説明</a></td>
+  </tr>  <tr>
     <td align="center"><a href="#jdla-deep-learning-for-general-2025-6">バッジの説明</a></td>
     <td align="center"><a href="#vbaエキスパート-excel-vba-standard">バッジの説明</a></td>
     <td align="center"><a href="#dx-推進パスポート">バッジの説明</a></td>
@@ -71,6 +75,7 @@ G検定とは、一般社団法人日本ディープラーニング協会（JDLA
 Excel、Accessのマクロ・VBA（Visual Basic for Applications）のスキルを証明する資格です。
 
 ### ` JDLA Deep Learning for GENERAL 2025 #6 `
+[](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RGJpWmpGTmFOWi9vOTlscFlSeFkvZz09)
 発行者：一般社団法人　日本ディープラーニング協会  
 発行日：2025/12/12  
 説明　：「JDLA Deep Learning for GENERAL (G検定)」とは、ディープラーニングの基礎知識を有し、適切な活用方針を決定して、事業活用する能力や知識を有しているかを検定する試験です。
