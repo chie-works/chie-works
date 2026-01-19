@@ -1,11 +1,5 @@
 <img src="../images/ai_passport.png" alt="ai passport" width="600">
 
-## ■合否結果
-
-| 判定 |
-|------|
-| **合　格** |
-
 ## ■章別得点率
 
 | No. | 分野 | 得点率 |
