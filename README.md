@@ -20,9 +20,15 @@
 
 | 資格名 | 取得年月 | 詳細 |  | 
 |---|---|---|---|
-| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [資格・バッジの説明](#g検定) |
-| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | [資格・バッジの説明](#生成aiパスポート) |
-| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格・バッジの説明](#VBA-standard) |
+| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [資格の説明](#g検定) |
+| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | [資格の説明](#生成aiパスポート) |
+| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格の説明](#VBA-standard) |
+
+| バッジ名 | バッジ | バッジの説明 |
+|---|---|---|
+| <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100"> |  |  |
+| <img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100"> |  |  |
+| <img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100"> |  |  |
 
 ---
 
