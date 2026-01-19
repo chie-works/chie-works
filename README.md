@@ -8,6 +8,7 @@
 | 『Python』受講中 | 学習中 | [詳細](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md) |
 
 ### 保有資格・オープンバッジ
+
 <img src="../images/g_test_badge.png" alt="G 検定 バッジ" width="50">
 <img src="../images/vba_standard_badge.png" alt="vba standard バッジ" width="50">
 
