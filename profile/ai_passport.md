@@ -1,4 +1,4 @@
-<img src="../images/ai_passport.png" alt="ai passport" width="600">
+<img src="../images/ai_passport_score.png" alt="ai passport" width="600">
 
 ## ■章別得点率
 
