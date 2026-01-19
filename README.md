@@ -61,7 +61,7 @@ G検定とは、一般社団法人日本ディープラーニング協会（JDLA
 [公式サイト](https://vbae.odyssey-com.co.jp/about/)  より  
 Excel、Accessのマクロ・VBA（Visual Basic for Applications）のスキルを証明する資格です。
 
-### ` JDLA Deep Learning for GENERAL 2025 #6 `<img src="images/g_test_badge.png" alt="G 検定 バッジ" width="20">
+### ` JDLA Deep Learning for GENERAL 2025 #6 ` <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="40"> 
 発行者：一般社団法人　日本ディープラーニング協会
 発行日：2025/12/12
 説明　：「JDLA Deep Learning for GENERAL (G検定)」とは、ディープラーニングの基礎知識を有し、適切な活用方針を決定して、事業活用する能力や知識を有しているかを検定する試験です。
