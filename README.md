@@ -1,4 +1,4 @@
-## プロフィール
+## １．プロフィール
 
 | スキル・経歴 | 期間 | リンク |
 |---|---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## ポートフォリオ
+## ２．ポートフォリオ
 
 ### `Python`
 **[Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
