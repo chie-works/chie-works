@@ -14,13 +14,12 @@
   <img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100">
   <img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100">
  </div>
-  <span><a href="#badge-info">資格・バッジの説明</a></span>
 
 | 資格名 | 取得年月 | 詳細 |  | 
 |---|---|---|---|
-| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | <a href="#badge-info">資格・バッジの説明</a> |
-| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | <a href="#badge-info">資格・バッジの説明</a> |
-| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | <a href="#badge-info">資格・バッジの説明</a> |
+| JDLA G検定 | 2025年11月 | [詳細](./profile/g_test.md) | [資格・バッジの説明](#g検定) |
+| 生成AIパスポート | 2025年10月 | [詳細](./profile/ai_passport.md) | [資格・バッジの説明](#生成aiパスポート) |
+| VBAエキスパート | 2019年7月 | [詳細](./profile/vba_standard.md)  | [資格・バッジの説明](#VBA standard )|
 
 ---
 
@@ -40,6 +39,7 @@ Python学習における作成コードやポイントをまとめています�
 
 <h2 id="badge-info">資格・バッジの説明</h2>
 
+  
 #### ` G検定 `
  [公式サイトより](https://www.jdla.org/certificate/general/)   
 G検定とは、一般社団法人日本ディープラーニング協会（JDLA）が実施する、AI・ディープラーニングの活⽤リテラシー習得のための検定試験です。 AI・ディープラーニングに関わる全ての方が受験対象です。 AI・ディープラーニングについて体系的に学ぶことで、「AIで何ができて、何ができないのか」「どこにAIを活用すればよいか」「AIを活用するためには何が必要か」が理解でき、データを活用した新たな課題の発見やアイデアの創出が可能になる、デジタル施策の推進に自信が持てるようになるなど、あなたのビジネスやキャリアの可能性が飛躍的に広がります。
