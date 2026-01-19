@@ -20,8 +20,8 @@
 
 <table>
   <tr>
-    <th>JDLA Deep Learning for GENERAL 2025 #6</th>
-    <th>VBAエキスパート Excel VBA Standard</th>
+    <th>JDLA Deep Learning <br>for GENERAL 2025 #6</th>
+    <th>VBAエキスパート <br>Excel VBA Standard</th>
     <th>DX推進パスポート１</th>
   </tr>
   <tr>
