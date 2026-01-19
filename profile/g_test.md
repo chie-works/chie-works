@@ -1,4 +1,4 @@
-<img src="../images/g_test.png" alt="G 検定" width="300">
+<img src="../images/g_test.png" alt="G 検定" width="600">
 
 ## ■シラバス分野別得点率（小数点以下切り捨て）
 
