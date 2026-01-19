@@ -9,8 +9,8 @@
 
 ### 保有資格・オープンバッジ
 
-<img src="../images/g_test_badge.png" alt="G 検定 バッジ" width="50">
-<img src="../images/vba_standard_badge.png" alt="vba standard バッジ" width="50">
+<img src="images/g_test_badge.png" alt="G 検定 バッジ" width="50">
+<img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="50">
 
 | 資格名 | 取得年月 | 詳細 |
 |---|---|---|
