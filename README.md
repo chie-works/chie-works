@@ -33,8 +33,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RGJpWmpGTmFOWi9vOTlscFlSeFkvZz09">資格証明</a></td>
-    <td align="center"><a href="#vbaエキスパート-excel-vba-standard">バッジの説明</a></td>
-    <td align="center"><a href="#dx-推進パスポート">バッジの説明</a></td>
+    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dVhWdXlvajZ0RXJYT3QxampMeno1QT09">資格証明</a></td>
+    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ZGY3WDFlRWtlQ0FSd3ZsZDBNTTlpdz09">資格証明</a></td>
   </tr>  <tr>
     <td align="center"><a href="#jdla-deep-learning-for-general-2025-6">バッジの説明</a></td>
     <td align="center"><a href="#vbaエキスパート-excel-vba-standard">バッジの説明</a></td>
