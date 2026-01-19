@@ -7,7 +7,9 @@
 | 『デジタルスキル講座』受講 | 1か月 | [詳細](./profile/digital_skill.md) |
 | 『Python』受講中 | 学習中 | [詳細](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md) |
 
-### 保有資格・オープンバッジ
+---
+
+## ２．保有資格・オープンバッジ
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="images/g_test_badge.png" alt="G 検定 バッジ" width="100">
@@ -23,7 +25,7 @@
 
 ---
 
-## ２．ポートフォリオ
+## ３．ポートフォリオ
 
 ### `Python`
 **[Udemy学習ログ](https://github.com/python-works-project/python-udemy-practice/blob/main/README.md)**  
