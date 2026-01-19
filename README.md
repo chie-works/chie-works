@@ -58,3 +58,5 @@ DX推進を目指す全ての人は、デジタルを「使う」と「作る」
 　　- データサイエンティスト検定 リテラシーレベル
 　　- G検定
 #### ` VBA standard `
+[公式サイトより](https://vbae.odyssey-com.co.jp/about/)  
+Excel、Accessのマクロ・VBA（Visual Basic for Applications）のスキルを証明する資格です。
