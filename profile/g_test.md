@@ -1,4 +1,4 @@
-<img src="../images/g_test.png" alt="G 検定" width="450">
+<!--<img src="../images/g_test.png" alt="G 検定" width="450">-->
 
 <img src="../images/g_test_badge.png" alt="G 検定 バッジ" width="300">
 
