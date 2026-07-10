@@ -31,13 +31,11 @@
     <td align="center"><img src="images/vba_standard_badge.png" alt="vba standard バッジ" width="100"></td>
     <td align="center"><img src="images/dx_passport_1_badge.png" alt="DX 推進パスポート バッジ" width="100"></td>
   </tr>
-  <!--
-  <tr>
-    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RGJpWmpGTmFOWi9vOTlscFlSeFkvZz09">資格証明</a></td>
-    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dVhWdXlvajZ0RXJYT3QxampMeno1QT09">資格証明</a></td>
-    <td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ZGY3WDFlRWtlQ0FSd3ZsZDBNTTlpdz09">資格証明</a></td>
-  </tr>
-  -->
+  <!--<tr>-->
+    <!--<td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/RGJpWmpGTmFOWi9vOTlscFlSeFkvZz09">資格証明</a></td>-->
+    <!--<td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dVhWdXlvajZ0RXJYT3QxampMeno1QT09">資格証明</a></td>-->
+    <!--<td align="center"><a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ZGY3WDFlRWtlQ0FSd3ZsZDBNTTlpdz09">資格証明</a></td>-->
+  <!--</tr>-->
 </table>
 
 ---
